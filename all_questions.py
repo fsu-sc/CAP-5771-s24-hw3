@@ -8,7 +8,7 @@ def question1():
     answers = {}
 
     # type: bool (True/False)
-    answers["(a)"] = -1
+    answers["(a)"] = true
 
     # type: explanatory string (at least four words)
     answers["(a) explain"] = ""
